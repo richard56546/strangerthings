@@ -1,0 +1,51 @@
+body{
+   background-color: dimgray;
+}
+.x0{
+    width: 800px;
+    height: 768px;
+    background-color: silver;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.x1{
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    font-family: 'Amatic SC', cursive;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.x2{
+    width: 800px;
+    height: 100px;
+    background-color: silver;
+}
+.x3{
+    width: 800px;
+    height: 300px;
+    background-color: silver;
+}
+.x4{
+    width: 240px;
+    height: 120px;
+    background-color: silver;
+    margin-left: 300px;
+
+}
+.x5{
+    width: 180px;
+    height: 180px;
+    background-color: cadetblue;
+    margin-left: 600px;
+   margin-top: -135px;
+}
+a{color: white;font-size: 30px;}
+a:link{text-decoration: none;}
+a:hover{color: yellow;}
+
+

@@ -1,0 +1,89 @@
+body{
+    background-color: dimgray;
+}
+.x0{
+    width: 800px;
+    height: 60px;
+    background-color: black;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Amatic SC', cursive;
+    color: aliceblue;
+   
+}
+.x1{
+    width: 800px;
+    height: 100px;
+    background-color: silver;
+    margin: auto;
+}
+.x2{
+    width: 800px;
+    height: 300px;
+    background-color: silver;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.x3{
+    width: 800px;
+    height: 150px;
+    background-color: silver;
+    margin: auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+.x4{
+    width: 800px;
+    height: 158px;
+    background-color: silver;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  
+
+}
+.z1{
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.z2{
+    width: 185px;
+    height: 300px;
+    background-color: silver;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+.z3{
+    width: 150px;
+    height: 150px;
+    background-color: silver;
+   display: flex;
+    margin-top: 20px;
+  justify-content: center;
+   align-items: center;
+}
+.z4{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    margin-left: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    
+}
+a{color: white;font-size: 30px;}
+a:link{text-decoration: none;}
+a:hover{color: yellow;}
